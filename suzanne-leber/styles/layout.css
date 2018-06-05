@@ -46,6 +46,13 @@ nav, article, aside, footer section {
     border-bottom: 1px solid #eee;
     height: 0;
   }
+
+  hr {
+    clear: both;
+    border: 0;
+    height: 13px;
+    background-image: url('img/hr-img.gif');
+}
   
   
   footer section p{
